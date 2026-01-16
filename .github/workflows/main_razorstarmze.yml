@@ -68,6 +68,6 @@ jobs:
           app-name: 'razorstarmze'
           slot-name: 'Production'
           #package: .
-          package: ${{ github.workspace }}/.net-app
+          package: ${{ github.workspace }}
 
           
